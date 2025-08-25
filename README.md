@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**canozgan/canozgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Can Özgan, a Computer Engineering graduate from KTÜ.  
+I specialize in **Python scripting & automation**, **data extraction**, and **data mining**.  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Python | Scrapy | BeautifulSoup | Pandas | NumPy  
+- Playwright | SeleniumBase | Camoufox  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Interests
+- Data mining & automation  
+- AI-powered web automation  
+- Big data analytics  
+
+---
+✨ _This README appears on my GitHub profile._
